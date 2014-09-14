@@ -9,4 +9,5 @@ void printer(){
 int main(){
   cout <<"hello world!"<< endl;
   printer();
+  cout<<"another test!";
 }
