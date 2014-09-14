@@ -6,6 +6,9 @@ void printer(){
   cout<<"it is just a printer";
   
 }
+void h(){
+	happysmile;
+}
 int main(){
   cout <<"hello world!"<< endl;
   printer();
@@ -14,6 +17,4 @@ int main(){
 	  cout<< " am i sure?? this ";
 /*hello world!!!*/
   cout<<" i think i am not right!!!";
-
-  cout<<" we are not alone";
 }
