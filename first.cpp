@@ -14,4 +14,5 @@ int main(){
 	  cout<< " am i sure?? this ";
 /*hello world!!!*/
   cout<<" i think i am not right!!!";
+  cout<< "any body has an inifinte value!!!";
 }
