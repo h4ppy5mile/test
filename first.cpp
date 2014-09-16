@@ -2,7 +2,7 @@
 using namespace std;
 
 
-void printer(){
+void printer( hi){
   cout<<"it is just a printer";
   
 }
