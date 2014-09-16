@@ -17,4 +17,5 @@ int main(){
 	  cout<< " am i sure?? this ";
 /*hello world!!!*/
   cout<<" right!!!";
+  God, h3lp;
 }
