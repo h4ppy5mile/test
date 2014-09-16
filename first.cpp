@@ -16,6 +16,5 @@ int main(){
   cout<<"usefull for another test!!!!!"
 	  cout<< " am i sure?? this ";
 /*hello world!!!*/
-  cout<<" i th am not right!!!";
-  printer( hi)
+  cout<<" right!!!";
 }
