@@ -16,6 +16,14 @@ int main(){
   cout<<"usefull for another test!!!!!"
 	  cout<< " am i sure?? this ";
 /*hello world!!!*/
+<<<<<<< HEAD
   cout<<" right!!!";
   God, h3lp;
+=======
+  cout<<" i think i am not right!!!";
+  
+  
+  
+  "we are here to change the world"
+>>>>>>> origin/secBranch
 }
