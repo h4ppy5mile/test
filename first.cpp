@@ -25,5 +25,10 @@ int main(){
   
   
   "we are here to change the world"
+<<<<<<< HEAD
 >>>>>>> origin/secBranch
+=======
+  
+  " i am happy am not I??!"
+>>>>>>> secBranch
 }
