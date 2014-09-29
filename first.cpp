@@ -20,4 +20,7 @@ int main(){
   "we are here to change the world"
   
   " i am happy am not I??!"
-}
+} 
+
+
+i am the one who is seeking mush more better life!!!##
